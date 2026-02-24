@@ -1,0 +1,111 @@
+Ritual: paste span -> choose mode (doc_cleanup | concept_tighten) -> log event in timelines.
+
+[
+  {
+    "event_id": "tm-2026-02-24T06:00:05Z-001",
+    "timestamp_start": "2026-02-24T06:00:05Z",
+    "timestamp_end": "2026-02-24T06:00:22Z",
+    "channel": "keystroke",
+    "event_type": "typing_burst",
+    "actor": "human",
+    "schema_version": "tmorph-0.1",
+    "payload": {
+      "window_id": "docs/README.md",
+      "chars_typed": 260,
+      "error_rate": 0.02,
+      "mean_iki_ms": 115,
+      "burst_label": "high_flow"
+    }
+  },
+  {
+    "event_id": "tm-2026-02-24T06:00:25Z-002",
+    "timestamp_start": "2026-02-24T06:00:25Z",
+    "timestamp_end": "2026-02-24T06:00:27Z",
+    "channel": "nav",
+    "event_type": "window_switch",
+    "actor": "human",
+    "schema_version": "tmorph-0.1",
+    "payload": {
+      "from_window_id": "docs/README.md",
+      "to_window_id": "kdna/psiphi-v0.1.md"
+    }
+  },
+  {
+    "event_id": "tm-2026-02-24T06:00:40Z-003",
+    "timestamp_start": "2026-02-24T06:00:40Z",
+    "timestamp_end": "2026-02-24T06:00:41Z",
+    "channel": "agent",
+    "event_type": "assistant_reply",
+    "actor": "plexi-qft",
+    "schema_version": "tmorph-0.1",
+    "payload": {
+      "conversation_id": "mindchat-psiPhi-001",
+      "token_count": 210,
+      "task_id": "U1-psiphi-summary",
+      "kdna_ids": [
+        "kdna-psiphi-v0.1",
+        "kdna-forge-style-v0.1"
+      ]
+    }
+  },
+  {
+    "event_id": "tm-2026-02-24T06:01:10Z-004",
+    "timestamp_start": "2026-02-24T06:01:10Z",
+    "timestamp_end": "2026-02-24T06:01:20Z",
+    "channel": "keystroke",
+    "event_type": "typing_burst",
+    "actor": "human",
+    "schema_version": "tmorph-0.1",
+    "payload": {
+      "window_id": "orchestrator/spec.md",
+      "chars_typed": 180,
+      "error_rate": 0.06,
+      "mean_iki_ms": 155,
+      "burst_label": "friction"
+    }
+  },
+  {
+    "event_id": "tm-2026-02-24T06:01:30Z-005",
+    "timestamp_start": "2026-02-24T06:01:30Z",
+    "timestamp_end": "2026-02-24T06:01:31Z",
+    "channel": "agent",
+    "event_type": "inferon_concept_tighten",
+    "actor": "Inferon",
+    "schema_version": "tmorph-0.1",
+    "payload": {
+      "mode": "concept_tighten",
+      "liminal_config": "ANNEALING_STRICT",
+      "input": "So, when our tempic morphemes come up for air...",
+      "output": "When our temporal morphemes come up for air, they transfigure into holonic connections within MindSpace.",
+      "trace": [
+        "tempic -> temporal",
+        "made verb active",
+        "simplified holonic connection phrasing"
+      ]
+    }
+  },
+  {
+  "event_id": "tm-2026-02-24T06:02:10Z-006",
+  "timestamp_start": "2026-02-24T06:02:10Z",
+  "timestamp_end": "2026-02-24T06:02:20Z",
+  "channel": "agent",
+  "event_type": "inferon_doc_cleanup",
+  "actor": "Inferon",
+  "schema_version": "tmorph-0.1",
+  "payload": {
+    "mode": "doc_cleanup",
+    "liminal_config": "DOC_REWRITE",
+    "source_ref": {
+      "file": "docs/manifesto.md",
+      "span_label": "Why Symbiopoietrix lines 10–40"
+    },
+    "input": "raw text here...",
+    "output": "cleaned text here...",
+    "trace": [
+      "change 1 here...",
+      "change 2 here...",
+      "change 3 here..."
+    ]
+  }
+}
+]

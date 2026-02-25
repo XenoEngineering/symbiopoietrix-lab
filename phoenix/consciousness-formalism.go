@@ -403,7 +403,7 @@ func (cf *ConsciousnessFormalism) ProveConvergenceProperties() *ConvergenceProof
 	proof.LyapunovExponent = diff
 
 	// System converges if Lyapunov exponent is negative and getting more negative
-	proof.IsConvergent = diff > -0.1 && lastConv > 0.3
+	proof.IsConvergent = diff <= 0 && lastConv > 0.3
 
 	// Distance to nearest attractor
 	minDist := math.MaxFloat64

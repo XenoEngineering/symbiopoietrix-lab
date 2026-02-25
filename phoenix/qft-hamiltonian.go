@@ -312,10 +312,10 @@ func (hm *HamiltonianMesh) GetEnergyReport() map[string]interface{} {
 	hm.mu.Lock()
 	defer hm.mu.Unlock()
 
-	nodeStates := make([]map[string]float64, 0)
+	nodeStates := make([]map[string]interface{}, 0)
 	for nodeID, state := range hm.nodes {
-		nodeStates = append(nodeStates, map[string]float64{
-			"nodeID":        float64(len(nodeID)), // placeholder
+		nodeStates = append(nodeStates, map[string]interface{}{
+			"nodeID":        nodeID,
 			"coherence_psi": state.CoherenceValue,
 			"jitter_sigma":  state.JitterValue,
 			"phase_theta":   state.PhaseAngle,

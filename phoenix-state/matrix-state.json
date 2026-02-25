@@ -1,0 +1,809 @@
+{
+  "timeline": [
+    {
+      "timestamp": "2026-02-25T01:36:48.164304Z",
+      "tIndex": 1,
+      "role": "s1-plexi-qft",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.164304Z",
+      "tIndex": 2,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.164304Z",
+      "tIndex": 3,
+      "role": "s1-orchestrator",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1648215Z",
+      "tIndex": 4,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1653381Z",
+      "tIndex": 5,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1658528Z",
+      "tIndex": 6,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1658528Z",
+      "tIndex": 7,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "tIndex": 8,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "tIndex": 9,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "tIndex": 10,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "tIndex": 11,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "tIndex": 12,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "tIndex": 13,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "tIndex": 14,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "tIndex": 15,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "tIndex": 16,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1679349Z",
+      "tIndex": 17,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1679349Z",
+      "tIndex": 18,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1679349Z",
+      "tIndex": 19,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25T01:36:48.1684506Z",
+      "tIndex": 20,
+      "role": "s1-plexi-impl",
+      "layer": "artifact",
+      "op": "append_turn",
+      "tags": [
+        "telemetry"
+      ]
+    }
+  ],
+  "bstForest": {},
+  "methodCalls": [
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408164304000,
+      "endTimeNs": 1771983408164304000,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-qft",
+        "text": "I am S1-Plexi-QFT, ready to analyze quantum topologies."
+      },
+      "result": {
+        "tIndex": 1,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.164304Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408164304000,
+      "endTimeNs": 1771983408164304000,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "I am S1-Plexi-Implementor, engineering the substrate."
+      },
+      "result": {
+        "tIndex": 2,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.164304Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408164304000,
+      "endTimeNs": 1771983408164304000,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-orchestrator",
+        "text": "I am S1-Orchestrator, coordinating emergence."
+      },
+      "result": {
+        "tIndex": 3,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.164304Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408164821500,
+      "endTimeNs": 1771983408164821500,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1648215Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408164821500,
+      "endTimeNs": 1771983408164821500,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 0"
+      },
+      "result": {
+        "tIndex": 4,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1653381Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408165338100,
+      "endTimeNs": 1771983408165338100,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1653381Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408165338100,
+      "endTimeNs": 1771983408165338100,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 6"
+      },
+      "result": {
+        "tIndex": 5,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1653381Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408165338100,
+      "endTimeNs": 1771983408165338100,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1653381Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408165852800,
+      "endTimeNs": 1771983408165852800,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1658528Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408165852800,
+      "endTimeNs": 1771983408165852800,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 9"
+      },
+      "result": {
+        "tIndex": 6,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1658528Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408165852800,
+      "endTimeNs": 1771983408165852800,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 12"
+      },
+      "result": {
+        "tIndex": 7,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1658528Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408165852800,
+      "endTimeNs": 1771983408165852800,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1658528Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 3"
+      },
+      "result": {
+        "tIndex": 8,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 15"
+      },
+      "result": {
+        "tIndex": 9,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 21"
+      },
+      "result": {
+        "tIndex": 10,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 18"
+      },
+      "result": {
+        "tIndex": 11,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166366700,
+      "endTimeNs": 1771983408166366700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1663667Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 24"
+      },
+      "result": {
+        "tIndex": 12,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 33"
+      },
+      "result": {
+        "tIndex": 13,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 30"
+      },
+      "result": {
+        "tIndex": 14,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408166889500,
+      "endTimeNs": 1771983408166889500,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1668895Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 39"
+      },
+      "result": {
+        "tIndex": 15,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 27"
+      },
+      "result": {
+        "tIndex": 16,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408167414700,
+      "endTimeNs": 1771983408167414700,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1674147Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408167934900,
+      "endTimeNs": 1771983408167934900,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 42"
+      },
+      "result": {
+        "tIndex": 17,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1679349Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408167934900,
+      "endTimeNs": 1771983408167934900,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 45"
+      },
+      "result": {
+        "tIndex": 18,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1679349Z"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408167934900,
+      "endTimeNs": 1771983408167934900,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 36"
+      },
+      "result": {
+        "tIndex": 19,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1679349Z"
+    },
+    {
+      "method": "analyze_patterns",
+      "startTimeNs": 1771983408168450600,
+      "endTimeNs": 1771983408168450600,
+      "durationMs": 0,
+      "input": {
+        "category": "user",
+        "nth": 1
+      },
+      "result": {
+        "found": false,
+        "tIndex": 0,
+        "totalOccurrences": 0
+      },
+      "timestamp": "2026-02-25T01:36:48.1684506Z",
+      "categoryKey": "user"
+    },
+    {
+      "method": "append_turn",
+      "startTimeNs": 1771983408168450600,
+      "endTimeNs": 1771983408168450600,
+      "durationMs": 0,
+      "input": {
+        "role": "s1-plexi-impl",
+        "text": "[S1-Plexi-Implementor] Operation 48"
+      },
+      "result": {
+        "tIndex": 20,
+        "status": "appended"
+      },
+      "timestamp": "2026-02-25T01:36:48.1684506Z"
+    }
+  ],
+  "stats": {
+    "totalEvents": 20,
+    "totalCategories": 0,
+    "categories": null,
+    "methodCallCount": 37,
+    "avgAppendTimeMs": 0,
+    "avgAnalysisTimeMs": 0,
+    "avgCategoryTimeMs": 0,
+    "lastUpdateTimestamp": "2026-02-25T01:36:48.1695089Z",
+    "structureValidated": false
+  },
+  "serializedAt": "2026-02-25T01:36:48.1695089Z",
+  "schemaVersion": "0.1"
+}
